@@ -15,3 +15,5 @@ master modify
 feature1 modify
 
 thub.com:yangtaochina1/Hell
+
+git config color.ui true
